@@ -1,0 +1,5 @@
+cuda-quantum==0.14.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+cupy-cuda12x>=13.0          # use cupy-cuda11x if your Colab runtime is CUDA 11.x
